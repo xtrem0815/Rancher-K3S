@@ -58,9 +58,9 @@ sudo apt update
 sudo apt install lens
 
 
+https://kubernetes.k3s.internal.synology.me:6443
 
-
-kubernetes.k3s.internal.synology.me   192.168.1.254
+https://kubernetes.k3s.internal.synology.me:6443   192.168.1.156
 
 
 

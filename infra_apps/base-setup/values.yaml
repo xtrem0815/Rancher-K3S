@@ -1,0 +1,6 @@
+replicaCount: 1
+
+argoService: my-argo-argocd-server
+
+traefik:
+  enabled: true
