@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<Name>/<Repo>
+    repoURL: https://github.com/xtrem0815/Rancher-K3S.git
   path: base-setup
   helm:
     releaseName: base-setup
